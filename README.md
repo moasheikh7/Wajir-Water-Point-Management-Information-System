@@ -20,4 +20,4 @@ Allows authorized users to register water points, track their operational status
 
 ## Author
 
-Developed as an academic project by mohamed sheikh
+Developed as an academic project by mohamed sheikh 
